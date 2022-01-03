@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Hoje não trabalho com nada, porém, tenho sonho de trabalhar com back-end (ou full-stack)
-- 🌱 Atualmente estudando sobre Git e Github
+- 🔭 Atualmente não estou integrado no mercado de trabalho, porém, tenho sonho de trabalhar com back-end (ou full-stack)
+- 🌱 Estudando sobre Git e Github
 - 📫 Contate-me no email: thi.canato@gmail.com
 - ⚡ Sou muito esforçado com assuntos relacionados à programação
 
