@@ -3,7 +3,7 @@
 
 
 - 🔭 Atualmente não estou integrado no mercado de trabalho, porém, tenho sonho de trabalhar com back-end (ou full-stack)
-- 🌱 Estudando sobre Linux
+- 🌱 Estudando sobre MySQL
 - 📫 Contate-me no email: thi.canato@gmail.com
 - ⚡ Sou muito esforçado com assuntos relacionados à programação
 
