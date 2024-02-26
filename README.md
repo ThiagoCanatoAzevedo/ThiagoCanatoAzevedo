@@ -2,10 +2,9 @@
 
 
 
-- 🔭 Atualmente não estou integrado no mercado de trabalho, porém, tenho sonho de trabalhar com back-end (ou full-stack)
-- 🌱 Estudando: Focado em vestibulares
-- 📫 Contate-me pelo email: thi.canato@gmail.com
-- ⚡ Sou muito esforçado com assuntos relacionados à programação
+- 🔭 Integrado na área de tecnologia: Trabalhando no Colégio Barão de Mauá
+- 🌱 Estudando: Faculdade de Engenharia da Computação (USCS)
+- 📫 Contato: thi.canato@gmail.com
 
 
 
