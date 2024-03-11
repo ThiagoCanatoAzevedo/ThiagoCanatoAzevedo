@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Integrado na área de tecnologia: Trabalhando no Colégio Barão de Mauá
-- 🌱 Estudando: Faculdade de Engenharia da Computação (USCS)
+- 🔭 Integrado no mercado de trabalho: Trabalhando no Colégio Barão de Mauá como auxiliar de TI
+- 🌱 Estudando: Universidade São Caetano do Sul (USCS) - Engenharia da Computação 
 - 📫 Contato: thi.canato@gmail.com
 
 
