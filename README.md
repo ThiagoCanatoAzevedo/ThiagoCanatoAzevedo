@@ -17,7 +17,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ThiagoCanatoAzevedo/ThiagoCanatoAzevedo/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ThiagoCanatoAzevedo/ThiagoCanatoAzevedo/main/snake.svg" alt="Snake animation" />
 
 ###
 
